@@ -9,5 +9,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilh3rm3Marqu3s&" alt="Guilh3rm3Marqu3s" /></p>
 
-## 🐍 Minha Atividade
+## 🐍 My Activity
 ![Snake animation](https://github.com/Guilh3rm3Marqu3s/Guilh3rm3Marqu3s/raw/refs/heads/output/github-snake.svg)
